@@ -21,3 +21,5 @@ Con los puntos definidos se determina la trayectoria que seguirá el robot, y al
 El diagrama de flujo del proceso se muestra a continuación:
 ![Diagrama de Flujo](https://github.com/Juanfe710/Laboratorio2_Robotica/blob/main/Im%C3%A1genes/Diagrama%20de%20flujo%20Lab2.png)
 
+El código utilizado para la programación del manipulador se enceuntra en:
+![Código](https://github.com/Juanfe710/Laboratorio2_Robotica/blob/main/Codigo/Codigo%20RAPID)
