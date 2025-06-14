@@ -19,5 +19,5 @@ Luego de conseguirlo se realizó el modelo en 3D, también usando Inventor, del 
 Con los puntos definidos se determina la trayectoria que seguirá el robot, y al final de esta se desplaza el manipulador a un punto encima de la superficie para alistarse para moverse a la siguiente ubicación para realizar la siguiente letra. Este proceso se repite con cada una de las letras a inscribir en el pastel. Además se realizan las trayectorias circulares de los dibujos adicionales, que en este caso será un Pacman y un fantasma.
 
 El diagrama de flujo del proceso se muestra a continuación:
-!Diagrama de Flujo (https://github.com/Juanfe710/Laboratorio2_Robotica/blob/main/Im%C3%A1genes/Diagrama%20de%20flujo%20Lab2.png)
+![Diagrama de Flujo](https://github.com/Juanfe710/Laboratorio2_Robotica/blob/main/Im%C3%A1genes/Diagrama%20de%20flujo%20Lab2.png)
 
